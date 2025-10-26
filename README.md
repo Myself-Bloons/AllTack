@@ -19,6 +19,7 @@
 - Automatically adjusts tower range and pierce for balance
 - Excludes farms, villages, and maintains sentry behavior
 - Settings persist across game sessions
+- Remake of an old mod by Timotheeee
 
 ## Installation
 
